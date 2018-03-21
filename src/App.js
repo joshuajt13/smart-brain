@@ -17,6 +17,10 @@ const particlesOptions = {
         enable: true,
         value_area: 800
       }
+    },
+    line_linked: {
+      enable: true,
+      color: "#212121",
     }
   }
 }
